@@ -1,7 +1,7 @@
 # tictactoe-nasmx86-64
 tictactoe game with easy mode and hard mode (incomplete)
 
-Final Project CMSC 313:
+
 The Problem
 In this project, you will be developing a game of tic tac toe where the human will be playing against a computer. Unlike regular titactoe, our game will be played on a 4x4 board.
 
